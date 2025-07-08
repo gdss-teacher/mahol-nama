@@ -8,4 +8,5 @@ nav:
   - Environmental Monitoring Applications:
       - Monitoring of Urban Greenery: apps/urban-greenery.md
       - Monitoring of Urban Expansion: apps/urban-expansion.md
-  - About: about.md
+      - Monitoring of Weather Anomalies: apps/weather-anomalies.md
+

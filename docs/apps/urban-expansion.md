@@ -1,6 +1,5 @@
 # Monitoring of Urban Expansion
 
-![screenshot](../images/urban-app.png)
-
-- **GEE Link**: [Launch App](https://ee-jibranshiekh04.projects.earthengine.app/view/urban-detection-in-pakistan)
-- **Summary**: This app tracks urban expansion using DynamicWorld LULC data.
+- **GEE Link**: [Launch Google Earth Engine App](https://ee-jibranshiekh04.projects.earthengine.app/view/urban-expansion-in-karachi)
+- **Summary**: This app tracks urban expansion in different areas of Karachi using DynamicWorld LULC data.
+- **Developer**: Ghulam Mustafa (CS, Class of 2026, Habib University).
